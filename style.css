@@ -1,5 +1,5 @@
 body{
-	background-image:"bg.png";
+	background-image: url("bg.png");
 	/* background-repeat: no-repeat; */
 }
 
@@ -130,4 +130,3 @@ ol.menulist>li
 	width:100px;
 	height: 80px;
 }
-
